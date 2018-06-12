@@ -10,7 +10,7 @@ This example contains a Dockerfile which includes two research tools and a sampl
  A. To start an instance using the pre-built container image on DockerHub
  1) Verify the [image on DockerHub](https://hub.docker.com/r/lynnlangit/blastn-jupyter-docker/)  
  2) Get a local copy of the image from Docker Hub by running `docker pull lynnlangit/blastn-jupyter-docker`
- 3) Start an instance of the image by running `docker run -p 8888:8888 blastn-jupyter-docker`
+ 3) Start an instance of the image by running `docker run -p 8888:8888 lynnlangit/blastn-jupyter-docker`
  4) Connect to the example Jupyter notebook in your browser using the link generated
  5) Navigate and run the jupyter notebook located in /work/
 
