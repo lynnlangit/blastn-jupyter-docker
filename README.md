@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/blastn-jupyter-docker/master)
-
 ## Bioinformatics tool blastn Jupyter Docker analysis
 
 This example contains a Dockerfile which includes two research tools and a sample notebook:
